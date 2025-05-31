@@ -1,0 +1,1 @@
+<p>This ia a simple landing page for a gym website.</p>
